@@ -1,0 +1,15 @@
+
+
+* 2022
+
+** 2022-07 July
+
+*** 2022-07-08 Friday
+
+**** 11:23 AM - Journal                                          :journal:
+:LOGBOOK:
+CLOCK: [2022-07-08 Fri 11:23]--[2022-07-08 Fri 11:23] =>  0:00
+:END:
+
+Testing journal!
+
