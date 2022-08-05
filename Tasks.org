@@ -27,6 +27,11 @@ SCHEDULED: <2022-08-02 Tue>
   [2022-08-02 Tue 15:32]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
 
+** NEXT git testing
+SCHEDULED: <2022-08-05 Fri>
+  [2022-08-05 Fri 15:28]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
+
 * Projects
 ** MaSc                                                               :masc:
 
