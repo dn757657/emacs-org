@@ -314,3 +314,11 @@ CLOSED: [2022-07-26 Tue 11:46] SCHEDULED: <2022-07-26 Tue 9:00>
   [2022-07-25 Mon 15:02]
   [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/printing_space.tex::\section{Procurement}]]
 
+** DONE create git repositories for org, roam and emacs config
+CLOSED: [2022-08-03 Wed 10:44] SCHEDULED: <2022-08-02 Tue>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-08-03 Wed 10:44]
+:END:
+  [2022-08-02 Tue 15:32]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
+
