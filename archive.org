@@ -338,3 +338,49 @@ CLOSED: [2022-08-03 Wed 10:44] SCHEDULED: <2022-08-02 Tue>
   [2022-08-02 Tue 15:32]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
 
+** DONE gain access to laser cutting and 3d printing
+CLOSED: [2022-07-26 Tue 17:01]
+:LOGBOOK:
+- State "DONE"       from "ACTIVE"     [2022-07-26 Tue 17:01]
+:END:
+- machine shop not open??
+  [2022-07-21 Thu 14:22]
+
+** DONE Whimis for lab access
+CLOSED: [2022-07-26 Tue 18:06]
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-07-26 Tue 18:06]
+:END:
+brightspacec
+ [2022-07-26 Tue 11:47]
+  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Process oustanding finance][Process oustanding finance]]
+
+** DONE clone and pull emacs repos to new pc 
+CLOSED: [2022-08-03 Wed 11:29]
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-08-03 Wed 11:29]
+:END:
+  [2022-07-26 Tue 11:48]
+  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*sign up for health card with NS][sign up for health card with NS]]
+
+** DONE check that lab has items outlined in printing space requirements
+CLOSED: [2022-08-03 Wed 11:31]
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-08-03 Wed 11:31]
+- State "NEXT"       from "WAIT"       [2022-07-26 Tue 17:05]
+- State "WAIT"       from "TODO"       [2022-07-26 Tue 16:59] \\
+  need access to lab space
+:END:
+  [2022-07-26 Tue 16:59]
+  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*spec and order 3d printer][spec and order 3d printer]]
+[[id:50d2a39d-8d2c-47fb-af15-d5d8e165dbea][printing space]]
+
+** DONE go find Peter
+CLOSED: [2022-07-29 Fri 09:39] DEADLINE: <2022-07-29 Fri> SCHEDULED: <2022-07-27 Wed>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-07-29 Fri 09:39]
+:END:
+  [2022-07-26 Tue 17:00]
+  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*check that lab has items outlined in printing space requirements][check that lab has items outlined in printing space requirements]]
+
+
