@@ -1,5 +1,15 @@
 * Inbox
- 
+
+** NEXT modify accounts table in bpl schema, account adjustments need associated date
+  [2022-08-09 Tue 19:00]
+  [[file:c:/Users/Daniel/emacs/roam/main/finmodels_source_asset_paradigm.org::*Function][Function]]
+
+** NEXT how to handle flows
+- basically a source but limited to future data
+- how to structure and use existing source types
+  [2022-08-09 Tue 19:18]
+  [[file:c:/Users/Daniel/emacs/roam/main/finmodels_source_asset_paradigm.org::*Sources][Sources]]
+
 * Projects
 ** MaSc                                                               :masc:
 
@@ -206,7 +216,11 @@ for compliation purposes
   [2022-07-11 Mon 17:31]
   [[file:c:/Users/Daniel/Documents/08_Emacs/scratch.org::sentence with citation]]
 
-**** BACKLOG commit emacs config to git
+**** DONE commit emacs config to git
+CLOSED: [2022-08-09 Tue 18:49]
+:LOGBOOK:
+- State "DONE"       from "BACKLOG"    [2022-08-09 Tue 18:49]
+:END:
   [2022-07-11 Mon 10:27]
   [[help:Failed]]
 
@@ -258,8 +272,10 @@ CLOSED: [2022-08-03 Wed 11:31]
   [[file:c:/Users/Daniel/Documents/08_Emacs/roam/20220707112016-system_requirements.org::*balancing available vs new haredware purchase][balancing available vs new haredware purchase]]
 
 
-*** READY method for graphing dataframes outside of model framework?
-  [2022-07-10 Sun 15:23]
+*** NEXT method for graphing dataframes outside of model framework?
+- create basic graphing funcs, could be better methodology
+  - graphing lists of columns in dataframes
+[2022-07-10 Sun 15:23]
   [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/finmodels_forecasts.org::*Usage][Usage]]]
 
 ** FinModels                                                     :finmodels:
