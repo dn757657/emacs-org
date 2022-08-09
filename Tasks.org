@@ -59,14 +59,6 @@ Deadline: <2022-07-15 Fri>
   
 *** masc - Meetings                                               :meeting:
 
-**** DONE chat course selection with doman next mmeeting
-CLOSED: [2022-07-26 Tue 17:04]
-:LOGBOOK:
-- State "DONE"       from "READY"      [2022-07-26 Tue 17:04]
-:END:
-- see [[id:898ffe91-4f7d-4d6d-87d1-bccd3d7f2300][courses]]
-  [2022-07-21 Thu 14:22]
-
 **** WAIT testing structure for diaphragm stuff
 :LOGBOOK:
 - State "WAIT"       from "NEXT"       [2022-08-03 Wed 11:24] \\
@@ -75,10 +67,6 @@ CLOSED: [2022-07-26 Tue 17:04]
 - adhesive?
   [2022-07-29 Fri 13:10]
   [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/diaphragm_testing.org::*test casting][test casting]]
-
-**** TODO TA application Dr Doman meeting                        :meeting:
-  [2022-08-03 Wed 13:50]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*sign up for health card with NS][sign up for health card with NS]]
 
 *** masc - Procurement
 

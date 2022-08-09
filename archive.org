@@ -215,6 +215,22 @@ CLOSED: [2022-08-02 Tue 15:31] SCHEDULED: <2022-08-01 Mon>
 :END:
   [2022-07-29 Fri 16:06]
 
+** DONE TA application Dr Doman meeting                            :meeting:
+CLOSED: [2022-08-09 Tue 10:15]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-09 Tue 10:15]
+:END:
+  [2022-08-03 Wed 13:50]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*sign up for health card with NS][sign up for health card with NS]]
+
+** DONE chat course selection with doman next mmeeting
+CLOSED: [2022-07-26 Tue 17:04]
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-07-26 Tue 17:04]
+:END:
+- see [[id:898ffe91-4f7d-4d6d-87d1-bccd3d7f2300][courses]]
+  [2022-07-21 Thu 14:22]
+
 * Archive Admin
 ** DONE Finish some struff
 CLOSED: [2022-07-07 Thu 15:30] DEADLINE: <2022-07-11 Mon>
