@@ -7,6 +7,10 @@
 :END:
   [2022-08-10 Wed 09:47]
 
+** READY seperate forecast and sourced data in sources
+  [2022-08-10 Wed 15:30]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*printing 3mf files for box items][printing 3mf files for box items]]
+
 * Projects
 ** MaSc                                                               :masc:
 
@@ -153,13 +157,19 @@ SCHEDULED: <2022-07-29 Fri>
   [2022-07-29 Fri 13:10]
   [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/diaphragm_testing.org::*test casting][test casting]]
 
-**** NEXT video of proposed proof testing by bending along copper insert
-SCHEDULED: <2022-08-10 Wed>
+**** DONE video of proposed proof testing by bending along copper insert
+CLOSED: [2022-08-10 Wed 12:36] SCHEDULED: <2022-08-10 Wed>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-08-10 Wed 12:36]
+:END:
   [2022-08-10 Wed 09:58]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*sign up for health card with NS][sign up for health card with NS]]
 
-**** NEXT update coda with video and proposed testing structure
-SCHEDULED: <2022-08-10 Wed>
+**** DONE update coda with video and proposed testing structure
+CLOSED: [2022-08-10 Wed 12:36] SCHEDULED: <2022-08-10 Wed>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-08-10 Wed 12:36]
+:END:
   [2022-08-10 Wed 09:58]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*sign up for health card with NS][sign up for health card with NS]]
 
@@ -174,18 +184,29 @@ SCHEDULED: <2022-08-03 Wed>
   [2022-08-03 Wed 11:05]
   [[file:c:/Users/Daniel/emacs/roam/main/box_design.org::*Corner Braces][Corner Braces]]
 
-**** NEXT testing - same copper w/ thinner silicone
-DEADLINE: <2022-08-25 Thu> SCHEDULED: <2022-08-10 Wed>
+**** DONE testing - same copper w/ thinner silicone
+CLOSED: [2022-08-10 Wed 12:27] DEADLINE: <2022-08-25 Thu> SCHEDULED: <2022-08-10 Wed>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-08-10 Wed 12:27]
+:END:
   [2022-08-10 Wed 09:56]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*sign up for health card with NS][sign up for health card with NS]]
 
-**** NEXT peel back silicone from current copper castings and test adhesion
-SCHEDULED: <2022-08-10 Wed>
+**** DONE peel back silicone from current copper castings and test adhesion
+CLOSED: [2022-08-10 Wed 12:27] SCHEDULED: <2022-08-10 Wed>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-08-10 Wed 12:27]
+:END:
   [2022-08-10 Wed 09:57]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*sign up for health card with NS][sign up for health card with NS]]
 
-**** READY test thinner silicone with rounded corners of copper sample
-DEADLINE: <2022-08-12 Fri> SCHEDULED: <2022-08-11 Thu>
+**** DONE test thinner silicone with rounded corners of copper sample
+CLOSED: [2022-08-19 Fri 09:16] DEADLINE: <2022-08-12 Fri> SCHEDULED: <2022-08-11 Thu>
+:LOGBOOK:
+- State "DONE"       from "WAIT"       [2022-08-19 Fri 09:16]
+- State "WAIT"       from "READY"      [2022-08-10 Wed 10:07] \\
+  need to set other testing first
+:END:
   [2022-08-10 Wed 09:59]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*sign up for health card with NS][sign up for health card with NS]]
 
