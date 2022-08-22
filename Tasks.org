@@ -1,5 +1,13 @@
 * Inbox
- 
+
+** NEXT move coding projects to projects file
+  [2022-08-09 Tue 12:27]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*spec and order 3d printer][spec and order 3d printer]]
+
+** NEXT redo filing struct to match work PC on laptop
+  [2022-08-09 Tue 12:27]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*spec and order 3d printer][spec and order 3d printer]]
+
 * Projects
 ** MaSc                                                               :masc:
 
@@ -54,14 +62,19 @@ CLOSED: [2022-07-25 Mon 14:33] SCHEDULED: <2022-07-22 Fri>
 - maybe reach out to company
   [2022-07-21 Thu 14:25]
 
-**** ACTIVE rough cost estimate for box
+**** DONE rough cost estimate for box
+CLOSED: [2022-08-09 Tue 12:39]
+:LOGBOOK:
+- State "DONE"       from "ACTIVE"     [2022-08-09 Tue 12:39]
+:END:
   [2022-07-26 Tue 17:03]
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*sync emacs and apple calendar and outlook calendar][sync emacs and apple calendar and outlook calendar]]
 
-**** ACTIVE send purchasing links for prusa to Doman
-SCHEDULED: <2022-08-03 Wed>
+**** DONE send purchasing links for prusa to Doman
+CLOSED: [2022-08-09 Tue 12:39] SCHEDULED: <2022-08-03 Wed>
 
 :LOGBOOK:
+- State "DONE"       from "ACTIVE"     [2022-08-09 Tue 12:39]
 - State "NEXT"       from "WAIT"       [2022-07-29 Fri 13:13]
 - State "WAIT"       from "TODO"       [2022-07-26 Tue 17:03] \\
   need lab access
@@ -184,8 +197,9 @@ CLOSED: [2022-07-26 Tue 17:04]
 %%% TeX-master: "foam_3d_printer"
 %%% End:
 for compliation purposes
-  [2022-07-20 Wed 16:44]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/foam_3d_printer.tex][file:c:/Users/Daniel/Documents/08_Emacs/roam/main/foam_3d_printer.tex]]
+1) maybe also move tex stuff to own folder? - preferably own repo for sharing with doman
+   [2022-07-20 Wed 16:44]
+   [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/foam_3d_printer.tex][file:c:/Users/Daniel/Documents/08_Emacs/roam/main/foam_3d_printer.tex]]
 
 **** PLAN config to perhaps export org roam links as latex sub documents or flattten?
 - by also rendering linked files as sub files much work is saved in manual flattening later
