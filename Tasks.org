@@ -8,14 +8,21 @@
   [2022-08-09 Tue 12:27]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*spec and order 3d printer][spec and order 3d printer]]
   
-** WAIT register for courses
+** DONE register for courses
+CLOSED: [2022-08-26 Fri 10:33]
 :LOGBOOK:
+- State "DONE"       from "WAIT"       [2022-08-26 Fri 10:33]
 - State "WAIT"       from "TODO"       [2022-08-10 Wed 09:47] \\
   wairt for next doman meeting - need instructor approval for mech 6040 (ted)
 :END:
   [2022-08-10 Wed 09:47]
 
-** READY seperate forecast and sourced data in sources
+** CANC seperate forecast and sourced data in sources
+CLOSED: [2022-08-26 Fri 10:35]
+:LOGBOOK:
+- State "CANC"       from "READY"      [2022-08-26 Fri 10:35] \\
+  new paradigm
+:END:
   [2022-08-10 Wed 15:30]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*printing 3mf files for box items][printing 3mf files for box items]]
 
@@ -350,11 +357,21 @@ CLOSED: [2022-08-03 Wed 11:31]
   [2022-07-09 Sat 12:08]
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*update phone plan][update phone plan]]
 
-***** READY seperate bpl interfaceing and pipeline into two libs
+***** CANC seperate bpl interfaceing and pipeline into two libs
+CLOSED: [2022-08-26 Fri 10:34]
+:LOGBOOK:
+- State "CANC"       from "READY"      [2022-08-26 Fri 10:34] \\
+  dont need to
+:END:
   [2022-08-03 Wed 11:22]
   [[file:c:/Users/Daniel/emacs/roam/main/finmodels_source_asset_paradigm.org::*Function][Function]]
 
-***** READY bpl pipeline revisions for working with entries in series
+***** CANC bpl pipeline revisions for working with entries in series
+CLOSED: [2022-08-26 Fri 10:34]
+:LOGBOOK:
+- State "CANC"       from "COMPLETED"  [2022-08-26 Fri 10:34] \\
+  dont need/not ready
+:END:
 - bring up entry
 - apply all operations then move to next
 - also auto assign category and review in normal workflow
@@ -415,8 +432,10 @@ CLOSED: [2022-08-03 Wed 11:31]
 [2022-07-09 Sat 18:16]
   [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/finmodels_function.org::*Dev][Dev]]
 
-***** READY outline model object structure and function
+***** DONE outline model object structure and function
+CLOSED: [2022-08-26 Fri 10:34]
 :LOGBOOK:
+- State "DONE"       from "READY"      [2022-08-26 Fri 10:34]
 - State "CANC"       from              [2022-07-21 Thu 08:49] \\
   s
 - State "DONE"       from "NEXT"       [2022-07-21 Thu 08:49]
