@@ -1,35 +1,25 @@
 * Inbox
-
-** NEXT move coding projects to projects file
-  [2022-08-09 Tue 12:27]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*spec and order 3d printer][spec and order 3d printer]]
-
-** NEXT redo filing struct to match work PC on laptop
-  [2022-08-09 Tue 12:27]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*spec and order 3d printer][spec and order 3d printer]]
-  
-** DONE register for courses
-CLOSED: [2022-08-26 Fri 10:33]
-:LOGBOOK:
-- State "DONE"       from "WAIT"       [2022-08-26 Fri 10:33]
-- State "WAIT"       from "TODO"       [2022-08-10 Wed 09:47] \\
-  wairt for next doman meeting - need instructor approval for mech 6040 (ted)
-:END:
-  [2022-08-10 Wed 09:47]
-
-** CANC seperate forecast and sourced data in sources
-CLOSED: [2022-08-26 Fri 10:35]
-:LOGBOOK:
-- State "CANC"       from "READY"      [2022-08-26 Fri 10:35] \\
-  new paradigm
-:END:
-  [2022-08-10 Wed 15:30]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*printing 3mf files for box items][printing 3mf files for box items]]
-
 * Projects
 ** MaSc                                                               :masc:
 
 *** masc - Setup                                                    :setup:
+
+**** WAIT setup Prusa
+SCHEDULED: <2022-08-29 Mon>
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2022-08-26 Fri 12:31] \\
+  need prusa first
+:END:
+  [2022-08-26 Fri 12:26]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
+
+**** WAIT assemble box for printer
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2022-08-26 Fri 12:31] \\
+  need prusa and printed parts
+:END:
+  [2022-08-26 Fri 12:28]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
 
 *** masc - Reading                                                :reading:
 **** READY Military Injury and Biomechanics notes (ongoing)   :@work:masc:
@@ -39,181 +29,46 @@ Deadline: <2022-07-15 Fri>
   
 *** masc - Meetings                                               :meeting:
 
-**** DONE testing structure for diaphragm stuff
-CLOSED: [2022-08-10 Wed 09:45]
-:LOGBOOK:
-- State "DONE"       from "DONE"       [2022-08-10 Wed 09:45]
-- State "DONE"       from "WAIT"       [2022-08-10 Wed 09:45]
-- State "WAIT"       from "NEXT"       [2022-08-03 Wed 11:24] \\
-  next doman meeting Friday
-:END:
-- adhesive?
-  [2022-07-29 Fri 13:10]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/diaphragm_testing.org::*test casting][test casting]]
-
 *** masc - Procurement
-
-**** DONE spec and order 3d printer
-CLOSED: [2022-08-10 Wed 09:47] SCHEDULED: <2022-08-03 Wed>
-- maybe also order drybox? - no peter has one
-DEADLINE: <2022-08-03 Wed>
-:LOGBOOK:
-- State "DONE"       from "ACTIVE"     [2022-08-10 Wed 09:47]
-- State "NEXT"       from "WAIT"       [2022-08-03 Wed 11:29]
-- State "WAIT"       from "NEXT"       [2022-07-20 Wed 16:57] \\
-  waiting for darrel to review
-:END:
-[[id:87cb0a18-5968-4d04-825c-b3c3d0a4d52f][foam 3d printer]]
-  [2022-07-14 Thu 16:02]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/masc_main.org::*Get that foam printing][Get that foam printing]]
-
-**** DONE 3d printing practical implementation add to report
-CLOSED: [2022-07-25 Mon 14:33] SCHEDULED: <2022-07-22 Fri> DEADLINE: <2022-07-22 Fri>
-:LOGBOOK:
-- State "DONE"       from "ACTIVE"     [2022-07-25 Mon 14:33]
-:END:
-  [2022-07-21 Thu 14:23]
-
-**** DONE source varioshore and report on basic implemenntation
-CLOSED: [2022-07-25 Mon 14:33] SCHEDULED: <2022-07-22 Fri>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-07-25 Mon 14:33]
-:END:
-- SDS sheets always
-- if you cant get exact sheet than get somehting close
-- maybe reach out to company
-  [2022-07-21 Thu 14:25]
-
-**** DONE rough cost estimate for box
-CLOSED: [2022-08-09 Tue 12:39]
-:LOGBOOK:
-- State "DONE"       from "ACTIVE"     [2022-08-09 Tue 12:39]
-:END:
-  [2022-07-26 Tue 17:03]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*sync emacs and apple calendar and outlook calendar][sync emacs and apple calendar and outlook calendar]]
-
-**** DONE send purchasing links for prusa to Doman
-CLOSED: [2022-08-10 Wed 09:47] SCHEDULED: <2022-08-03 Wed>
-:LOGBOOK:
-- State "DONE"       from "ACTIVE"     [2022-08-10 Wed 09:47]
-- State "NEXT"       from "WAIT"       [2022-07-29 Fri 13:13]
-- State "WAIT"       from "TODO"       [2022-07-26 Tue 17:03] \\
-  need lab access
-:END:
-  [2022-07-26 Tue 17:03]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*sync emacs and apple calendar and outlook calendar][sync emacs and apple calendar and outlook calendar]]
 
 *** masc - Design
 
-**** DONE box design
-CLOSED: [2022-08-09 Tue 11:20] DEADLINE: <2022-08-05 Fri> SCHEDULED: <2022-08-04 Thu>
-:LOGBOOK:
-- State "DONE"       from "ACTIVE"     [2022-08-09 Tue 11:20]
-:END:
-- modularity
-- think of stuff we may want to do in the future
-- design synthesis: start simple -> expand as needed but leave the door open!
-  [2022-07-26 Tue 17:01]
+**** READY setup box components for printing
+SCHEDULED: <2022-08-30 Tue>
+- trial each part
+- print all 
+  [2022-08-26 Fri 12:27]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
 
-**** DONE BoM for box design v1
-CLOSED: [2022-08-09 Tue 11:21]
+*** WAIT pickup mcmaster carr and printer when arrived
 :LOGBOOK:
-- State "DONE"       from "ACTIVE"     [2022-08-09 Tue 11:21]
+- State "WAIT"       from "TODO"       [2022-08-26 Fri 12:32] \\
+  need to arrive first
 :END:
-  [2022-07-29 Fri 13:11]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/diaphragm_testing.org::*test casting][test casting]]
+  [2022-08-26 Fri 12:28]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
 
 ** IUD Project/Contract                                       :masc:IUDproj:
 
 *** IUD - Modelling                                             :modelling:
 
-**** DONE model molds for basic square molding
-CLOSED: [2022-07-25 Mon 14:33] DEADLINE: <2022-07-29 Fri> SCHEDULED: <2022-07-25 Mon>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-07-25 Mon 14:33]
-:END:
-  [2022-07-21 Thu 14:24]
-
-**** DONE design/prod files for lasercutting copper - cant lasercut what next?ask peter
-CLOSED: [2022-07-29 Fri 09:39] DEADLINE: <2022-07-29 Fri> SCHEDULED: <2022-07-26 Tue>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-07-29 Fri 09:39]
-:END:
-  [2022-07-21 Thu 14:27]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*model molds for basic square molding][model molds for basic square molding]]
-
 *** IUD - Printing                                               :print:3D:
 
-**** DONE print molds for silicone and copper adhesion testing
-CLOSED: [2022-07-29 Fri 12:16]
-:LOGBOOK:
-- State "DONE"       from "READY"      [2022-07-29 Fri 12:16]
-- State "READY"      from "WAIT"       [2022-07-26 Tue 20:21]
-- State "WAIT"       from "READY"      [2022-07-21 Thu 14:25] \\
-  need to design firstr
-:END:
-  [2022-07-21 Thu 14:25]
-
 *** IUD - Admin
-**** NEXT git repo permissions/branch initial setup for diaphragm
-- not quite sure what doman wants to do but come up with an idea
- 
-SCHEDULED: <2022-07-29 Fri>
-  [2022-07-29 Fri 13:10]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/diaphragm_testing.org::*test casting][test casting]]
 
-**** DONE video of proposed proof testing by bending along copper insert
-CLOSED: [2022-08-10 Wed 12:36] SCHEDULED: <2022-08-10 Wed>
+**** WAIT report for first diaphragm casting project/contract
 :LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-08-10 Wed 12:36]
+- State "WAIT"       from "READY"      [2022-08-26 Fri 12:35] \\
+  wait for completion of final testing and discussion with doman
 :END:
-  [2022-08-10 Wed 09:58]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*sign up for health card with NS][sign up for health card with NS]]
-
-**** DONE update coda with video and proposed testing structure
-CLOSED: [2022-08-10 Wed 12:36] SCHEDULED: <2022-08-10 Wed>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-08-10 Wed 12:36]
-:END:
-  [2022-08-10 Wed 09:58]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*sign up for health card with NS][sign up for health card with NS]]
+  [2022-08-26 Fri 12:35]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*modify auctex from org template][modify auctex from org template]]
 
 *** IUD - Testing
-**** DONE initial casting
-CLOSED: [2022-08-03 Wed 16:37]
-:LOGBOOK:
-- State "DONE"       from "ACTIVE"     [2022-08-03 Wed 16:37]
-:END:
-[[id:282e3869-0d4f-44c7-b1d3-a8ce1d407824][diaphragm testing]]
-SCHEDULED: <2022-08-03 Wed>
-  [2022-08-03 Wed 11:05]
-  [[file:c:/Users/Daniel/emacs/roam/main/box_design.org::*Corner Braces][Corner Braces]]
-
-**** DONE testing - same copper w/ thinner silicone
-CLOSED: [2022-08-10 Wed 12:27] DEADLINE: <2022-08-25 Thu> SCHEDULED: <2022-08-10 Wed>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-08-10 Wed 12:27]
-:END:
-  [2022-08-10 Wed 09:56]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*sign up for health card with NS][sign up for health card with NS]]
-
-**** DONE peel back silicone from current copper castings and test adhesion
-CLOSED: [2022-08-10 Wed 12:27] SCHEDULED: <2022-08-10 Wed>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-08-10 Wed 12:27]
-:END:
-  [2022-08-10 Wed 09:57]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*sign up for health card with NS][sign up for health card with NS]]
-
-**** DONE test thinner silicone with rounded corners of copper sample
-CLOSED: [2022-08-19 Fri 09:16] DEADLINE: <2022-08-12 Fri> SCHEDULED: <2022-08-11 Thu>
-:LOGBOOK:
-- State "DONE"       from "WAIT"       [2022-08-19 Fri 09:16]
-- State "WAIT"       from "READY"      [2022-08-10 Wed 10:07] \\
-  need to set other testing first
-:END:
-  [2022-08-10 Wed 09:59]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*sign up for health card with NS][sign up for health card with NS]]
+**** NEXT round one coil casting
+SCHEDULED: <2022-09-05 Mon>
+  [2022-08-26 Fri 12:26]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
 
 ** Emacs                                                             :emacs:
 
@@ -227,32 +82,6 @@ CLOSED: [2022-08-19 Fri 09:16] DEADLINE: <2022-08-12 Fri> SCHEDULED: <2022-08-11
   
 **** READY metric tracking for working hours
   [2022-07-11 Mon 09:56]
-
-**** DONE see about tagging ref captures in template or if there is something better? 
-CLOSED: [2022-07-26 Tue 17:04]
-:LOGBOOK:
-- State "DONE"       from "READY"      [2022-07-26 Tue 17:04]
-:END:
-  [2022-07-12 Tue 17:02]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/biblio_conifg.org::*Pcakages][Pcakages]]
-
-**** CANC sync emacs and apple calendar and outlook calendar
-CLOSED: [2022-08-10 Wed 09:46]
-:LOGBOOK:
-- State "CANC"       from "BACKLOG"    [2022-08-10 Wed 09:46] \\
-  not really as useful as I thought
-:END:
-- preferably use outlook and emacs for drivers of apple calendar
-  [2022-07-15 Fri 11:41]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Process oustanding finance][Process oustanding finance]]
-
-**** DONE fix fonts (especially list) 
-CLOSED: [2022-07-26 Tue 17:04]
-:LOGBOOK:
-- State "DONE"       from "READY"      [2022-07-26 Tue 17:04]
-:END:
-  [2022-07-18 Mon 15:32]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/foam_3d_printer.org::*Hot Ends][Hot Ends]]
 
 **** READY modify auctex from org template
 - needs to include: %%% Local Variables:
@@ -283,14 +112,6 @@ for compliation purposes
   [2022-07-11 Mon 17:31]
   [[file:c:/Users/Daniel/Documents/08_Emacs/scratch.org::sentence with citation]]
 
-**** DONE commit emacs config to git
-CLOSED: [2022-08-09 Tue 18:49]
-:LOGBOOK:
-- State "DONE"       from "BACKLOG"    [2022-08-09 Tue 18:49]
-:END:
-  [2022-07-11 Mon 10:27]
-  [[help:Failed]]
-
 **** BACKLOG configure ivy-bibtex to insert citations are desired
 https://github.com/tmalsburg/helm-bibtex
 SCHEDULED: <2022-07-13 Wed>
@@ -314,23 +135,6 @@ https://emacs.stackexchange.com/questions/63498/citations-with-page-numbers-from
 **** BACKLOG default path for exporting org as tex files 
 - this works presently so setting as backlog
 [2022-07-20 Wed 09:30]
-
-**** DONE config magit for emacs files 
-CLOSED: [2022-08-03 Wed 11:31]
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-08-03 Wed 11:31]
-:END:
-- https://www.youtube.com/watch?v=INTu30BHZGk&ab_channel=SystemCrafters
-[2022-07-26 Tue 11:48]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*sign up for health card with NS][sign up for health card with NS]]
-
-**** DONE think about what parts of emacs need to be in git repo
-CLOSED: [2022-08-03 Wed 11:31]
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-08-03 Wed 11:31]
-:END:
-  [2022-07-26 Tue 17:02]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*sync emacs and apple calendar and outlook calendar][sync emacs and apple calendar and outlook calendar]]
 
 ** Code                                                               :code:
 
@@ -357,30 +161,6 @@ CLOSED: [2022-08-03 Wed 11:31]
   [2022-07-09 Sat 12:08]
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*update phone plan][update phone plan]]
 
-***** CANC seperate bpl interfaceing and pipeline into two libs
-CLOSED: [2022-08-26 Fri 10:34]
-:LOGBOOK:
-- State "CANC"       from "READY"      [2022-08-26 Fri 10:34] \\
-  dont need to
-:END:
-  [2022-08-03 Wed 11:22]
-  [[file:c:/Users/Daniel/emacs/roam/main/finmodels_source_asset_paradigm.org::*Function][Function]]
-
-***** CANC bpl pipeline revisions for working with entries in series
-CLOSED: [2022-08-26 Fri 10:34]
-:LOGBOOK:
-- State "CANC"       from "COMPLETED"  [2022-08-26 Fri 10:34] \\
-  dont need/not ready
-:END:
-- bring up entry
-- apply all operations then move to next
-- also auto assign category and review in normal workflow
-  [2022-08-03 Wed 11:22]
-  [[file:c:/Users/Daniel/emacs/roam/main/finmodels_source_asset_paradigm.org::*Function][Function]]
-
-***** NEXT modify accounts table in bpl schema, account adjustments need associated date
-  [2022-08-09 Tue 19:00]
-  [[file:c:/Users/Daniel/emacs/roam/main/finmodels_source_asset_paradigm.org::*Function][Function]]
 
 **** FinModels - Sources
 
@@ -389,22 +169,7 @@ CLOSED: [2022-08-26 Fri 10:34]
   [2022-07-10 Sun 11:29]
   [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/finmodels_sources.org::+filetags: :python:sources:finmodels:]]
 
-***** NEXT how to handle flows
-- basically a source but limited to future data
-- how to structure and use existing source types
-  [2022-08-09 Tue 19:18]
-  [[file:c:/Users/Daniel/emacs/roam/main/finmodels_source_asset_paradigm.org::*Sources][Sources]]
-
 **** FinModels - Assets
-
-***** DONE outline finmodels asset structure/purpose
-CLOSED: [2022-08-03 Wed 11:31]
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-08-03 Wed 11:31]
-- State "DONE"       from "BACKLOG"    [2022-07-21 Thu 08:49]
-:END:
-  [2022-07-13 Wed 15:41]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*method for graphing dataframes outside of model framework?][method for graphing dataframes outside of model framework?]]
 
 **** FinModels - Forecasts
 
@@ -427,31 +192,13 @@ CLOSED: [2022-08-03 Wed 11:31]
 
 **** FinModels - Model
 
-***** TODO assets should be capable or multiple validation assignments :finmodels:
-- can complete in new paradigm via validation objects
-[2022-07-09 Sat 18:16]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/finmodels_function.org::*Dev][Dev]]
-
-***** DONE outline model object structure and function
-CLOSED: [2022-08-26 Fri 10:34]
-:LOGBOOK:
-- State "DONE"       from "READY"      [2022-08-26 Fri 10:34]
-- State "CANC"       from              [2022-07-21 Thu 08:49] \\
-  s
-- State "DONE"       from "NEXT"       [2022-07-21 Thu 08:49]
-:END:
-- what does it do??
-- how does it all fit together
-  [2022-07-13 Wed 15:42]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*method for graphing dataframes outside of model framework?][method for graphing dataframes outside of model framework?]]
-
-**** NEXT outline new paradigm of Flows, Assets and Component
-  [2022-08-03 Wed 11:21]
-  [[file:c:/Users/Daniel/emacs/roam/main/finmodels_source_asset_paradigm.org::*Function][Function]]
+**** NEXT explore basic cascade processing applications in assembler paradigm
+  [2022-08-26 Fri 12:28]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
 
 *** FinModels - Processing
 
-**** TODO Process oustanding finance 
+**** READY Process oustanding finance 
 DEADLINE: <2022-08-07 Sun +1w> SCHEDULED: <2022-08-06 Sat  +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2022-08-03 Wed 11:35]
@@ -469,7 +216,7 @@ DEADLINE: <2022-08-07 Sun +1w> SCHEDULED: <2022-08-06 Sat  +1w>
   [2022-07-08 Fri 15:05]
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Processing][Processing]]
 
-**** TODO collect on that cash from dads trip
+**** READY collect on that cash from dads trip
 - ask mom about it
 - still owe dad for flowers
 DEADLINE: <2022-07-31 Sun>
@@ -493,17 +240,10 @@ DEADLINE: <2022-08-31 Wed>
 *** Temp Sensor - Build
 
 ** Misc
-*** PLAN fix tarp                                                 :@errand:
-- [ ] what is tarp made of
-- [ ] get correct patching prodcut
-- [ ] patch tarp
-  [2022-07-09 Sat 10:27]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Process oustanding finance][Process oustanding finance]]
-  
 * Admin                                                               :admin:
 
 ** NEXT Call Air North per baggage issue 
-SCHEDULED: <2022-08-04 Thu> DEADLINE: <2022-08-05 Fri>
+SCHEDULED: <2022-08-29 Mon> DEADLINE: <2022-09-02 Fri>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2022-07-08 Fri 15:48]
 :END:
@@ -511,14 +251,10 @@ SCHEDULED: <2022-08-04 Thu> DEADLINE: <2022-08-05 Fri>
   [[file:~/.emacs::setq org-roam-v2-ack t]]
 
 ** READY update phone plan
- SCHEDULED: <2022-08-05 Fri> DEADLINE: <2022-08-05 Fri>
+ DEADLINE: <2022-09-02 Fri>
 :LOGBOOK:
 - State "DONE"       from "NEXT"       [2022-07-11 Mon 09:20]
 :END:
   [2022-07-09 Sat 11:00]
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Process oustanding finance][Process oustanding finance]]
-
-** PLAN sign up for health card with NS
-SCHEDULED: <2022-08-04 Thu> DEADLINE: <2022-07-15 Fri>
-   - 902-496-7008 call 
 
