@@ -21,6 +21,15 @@ SCHEDULED: <2022-09-09 Fri>
   [2022-09-02 Fri 16:15]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*lit review/writing][lit review/writing]]
 
+** NEXT order meme food
+  [2022-09-02 Fri 16:16]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*get dal card and ensure lab access still][get dal card and ensure lab access still]]
+
+** NEXT skin care
+-inky?
+  [2022-09-02 Fri 16:17]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*get dal card and ensure lab access still][get dal card and ensure lab access still]]
+
 * Projects
 ** MaSc                                                               :masc:
 
