@@ -561,6 +561,44 @@ CLOSED: [2022-08-26 Fri 12:36]
   [2022-07-09 Sat 10:27]
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Process oustanding finance][Process oustanding finance]]
   
+** DONE setup Prusa
+CLOSED: [2022-09-02 Fri 15:47] SCHEDULED: <2022-08-29 Mon>
+:LOGBOOK:
+- State "DONE"       from "WAIT"       [2022-09-02 Fri 15:47]
+- State "WAIT"       from "TODO"       [2022-08-26 Fri 12:31] \\
+  need prusa first
+:END:
+  [2022-08-26 Fri 12:26]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
+
+** DONE setup box components for printing
+CLOSED: [2022-09-02 Fri 15:48] SCHEDULED: <2022-08-30 Tue>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-09-02 Fri 15:48]
+:END:
+- trial each part
+- print all 
+  [2022-08-26 Fri 12:27]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
+
+** DONE pickup mcmaster carr and printer when arrived
+CLOSED: [2022-09-02 Fri 15:47]
+:LOGBOOK:
+- State "DONE"       from "WAIT"       [2022-09-02 Fri 15:47]
+- State "WAIT"       from "TODO"       [2022-08-26 Fri 12:32] \\
+  need to arrive first
+:END:
+  [2022-08-26 Fri 12:28]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
+
+** DONE round one coil casting
+CLOSED: [2022-09-02 Fri 15:47] SCHEDULED: <2022-09-05 Mon>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-02 Fri 15:47]
+:END:
+  [2022-08-26 Fri 12:26]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
+
 * Archive Admin
 ** DONE Finish some struff
 CLOSED: [2022-07-07 Thu 15:30] DEADLINE: <2022-07-11 Mon>

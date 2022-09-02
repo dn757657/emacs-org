@@ -1,17 +1,26 @@
 * Inbox
+
+** NEXT lit review/writing
+SCHEDULED: <2022-09-09 Fri>
+  [2022-09-02 Fri 16:06]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*print caverna shape_001 branch and report][print caverna shape_001 branch and report]]
+
+** NEXT JJ report writing
+SCHEDULED: <2022-09-08 Thu>
+  [2022-09-02 Fri 16:06]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*print caverna shape_001 branch and report][print caverna shape_001 branch and report]]
+
 * Projects
 ** MaSc                                                               :masc:
 
-*** masc - Setup                                                    :setup:
+*** masc - Class
 
-**** WAIT setup Prusa
-SCHEDULED: <2022-08-29 Mon>
-:LOGBOOK:
-- State "WAIT"       from "TODO"       [2022-08-26 Fri 12:31] \\
-  need prusa first
-:END:
-  [2022-08-26 Fri 12:26]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
+**** NEXT print stuff for 6040
+SCHEDULED: <2022-09-06 Tue>
+  [2022-09-02 Fri 15:52]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*final casting sample for JJ][final casting sample for JJ]]
+
+*** masc - Setup                                                    :setup:
 
 **** WAIT assemble box for printer
 :LOGBOOK:
@@ -21,9 +30,27 @@ SCHEDULED: <2022-08-29 Mon>
   [2022-08-26 Fri 12:28]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
 
+*** masc - Testing
+
+**** NEXT print varioshore shape_001 branch and report
+SCHEDULED: <2022-09-07 Wed>
+  [2022-09-02 Fri 15:50]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*email workflow in emacs][email workflow in emacs]]
+
+**** NEXT print caverna shape_001 branch and report
+SCHEDULED: <2022-09-06 Tue>
+  [2022-09-02 Fri 15:51]
+
+*** masc - Writing 
+
+**** NEXT plan for lit review based on Doman notes
+SCHEDULED: <2022-09-07 Wed>
+  [2022-09-02 Fri 15:49]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*setup box components for printing][setup box components for printing]]
+
 *** masc - Reading                                                :reading:
-**** READY Military Injury and Biomechanics notes (ongoing)   :@work:masc:
-Deadline: <2022-07-15 Fri>
+**** NEXT Military Injury and Biomechanics notes (ongoing)    :@work:masc:
+SCHEDULED: <2022-09-07 Wed> Deadline: <2022-07-15 Fri>
   [2022-07-08 Fri 12:28]
   [[file:~/.emacs::setq org-roam-v2-ack t]]
   
@@ -33,21 +60,6 @@ Deadline: <2022-07-15 Fri>
 
 *** masc - Design
 
-**** READY setup box components for printing
-SCHEDULED: <2022-08-30 Tue>
-- trial each part
-- print all 
-  [2022-08-26 Fri 12:27]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
-
-*** WAIT pickup mcmaster carr and printer when arrived
-:LOGBOOK:
-- State "WAIT"       from "TODO"       [2022-08-26 Fri 12:32] \\
-  need to arrive first
-:END:
-  [2022-08-26 Fri 12:28]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
-
 ** IUD Project/Contract                                       :masc:IUDproj:
 
 *** IUD - Modelling                                             :modelling:
@@ -56,20 +68,23 @@ SCHEDULED: <2022-08-30 Tue>
 
 *** IUD - Admin
 
-**** WAIT report for first diaphragm casting project/contract
+**** NEXT plan/outline report for first diaphragm casting project/contract
+SCHEDULED: <2022-09-08 Thu>
 :LOGBOOK:
+- State "NEXT"       from "WAIT"       [2022-09-02 Fri 16:03]
 - State "WAIT"       from "READY"      [2022-08-26 Fri 12:35] \\
   wait for completion of final testing and discussion with doman
 :END:
   [2022-08-26 Fri 12:35]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*modify auctex from org template][modify auctex from org template]]
 
-*** IUD - Testing
-**** NEXT round one coil casting
-SCHEDULED: <2022-09-05 Mon>
-  [2022-08-26 Fri 12:26]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
+**** NEXT final casting sample for JJ
+SCHEDULED: <2022-09-06 Tue>
+- see doman notes, pictures favoured etc
+  [2022-09-02 Fri 15:48]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*report for first diaphragm casting project/contract][report for first diaphragm casting project/contract]]
 
+*** IUD - Testing
 ** Emacs                                                             :emacs:
 
 *** Emacs - Config                                                 :config:
@@ -218,7 +233,7 @@ DEADLINE: <2022-08-07 Sun +1w> SCHEDULED: <2022-08-06 Sat  +1w>
   
 ** Temp Sensor                                                     :tsensor:
 *** Temp Sensor - Items
-**** NEXT buy raspi zero ro clone for temp sensor
+**** READY buy raspi zero ro clone for temp sensor
 DEADLINE: <2022-08-31 Wed>
   [2022-07-13 Wed 14:01]
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*will temp sensor googl estill authenticate][will temp sensor googl estill authenticate]]
@@ -236,15 +251,15 @@ DEADLINE: <2022-08-31 Wed>
 * Admin                                                               :admin:
 
 ** NEXT Call Air North per baggage issue 
-SCHEDULED: <2022-08-29 Mon> DEADLINE: <2022-09-02 Fri>
+SCHEDULED: <2022-09-08 Thu> DEADLINE: <2022-09-02 Fri>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2022-07-08 Fri 15:48]
 :END:
   [2022-07-08 Fri 12:31]
   [[file:~/.emacs::setq org-roam-v2-ack t]]
 
-** READY update phone plan
- DEADLINE: <2022-09-02 Fri>
+** NEXT update phone plan
+ SCHEDULED: <2022-09-15 Thu> DEADLINE: <2022-09-02 Fri>
 :LOGBOOK:
 - State "DONE"       from "NEXT"       [2022-07-11 Mon 09:20]
 :END:
@@ -257,3 +272,9 @@ SCHEDULED: <2022-08-29 Mon> DEADLINE: <2022-09-02 Fri>
 DEADLINE: <2022-07-31 Sun>
   [2022-07-09 Sat 13:24]
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Process oustanding finance][Process oustanding finance]]
+** NEXT get dal card and ensure lab access still
+SCHEDULED: <2022-09-06 Tue>
+  [2022-09-02 Fri 15:52]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*final casting sample for JJ][final casting sample for JJ]]
+
+  
