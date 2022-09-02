@@ -469,13 +469,6 @@ DEADLINE: <2022-08-07 Sun +1w> SCHEDULED: <2022-08-06 Sat  +1w>
   [2022-07-08 Fri 15:05]
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Processing][Processing]]
 
-**** TODO collect on that cash from dads trip
-- ask mom about it
-- still owe dad for flowers
-DEADLINE: <2022-07-31 Sun>
-  [2022-07-09 Sat 13:24]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Process oustanding finance][Process oustanding finance]]
-
 ** Temp Sensor                                                     :tsensor:
 *** Temp Sensor - Items
 **** NEXT buy raspi zero ro clone for temp sensor
@@ -521,4 +514,11 @@ SCHEDULED: <2022-08-04 Thu> DEADLINE: <2022-08-05 Fri>
 ** PLAN sign up for health card with NS
 SCHEDULED: <2022-08-04 Thu> DEADLINE: <2022-07-15 Fri>
    - 902-496-7008 call 
+
+** TODO collect on that cash from dads trip
+- ask mom about it
+- still owe dad for flowers
+DEADLINE: <2022-07-31 Sun>
+  [2022-07-09 Sat 13:24]
+  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Process oustanding finance][Process oustanding finance]]
 
