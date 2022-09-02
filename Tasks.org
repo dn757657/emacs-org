@@ -10,6 +10,17 @@ SCHEDULED: <2022-09-08 Thu>
   [2022-09-02 Fri 16:06]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*print caverna shape_001 branch and report][print caverna shape_001 branch and report]]
 
+** NEXT final iteration of box clip
+- fix wiggly post
+- ensure 0.1 clearance to rail from foot feature
+SCHEDULED: <2022-09-09 Fri>
+  [2022-09-02 Fri 16:14]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*lit review/writing][lit review/writing]]
+
+** BACKLOG drop rails and drawings for enclosure off to peter
+  [2022-09-02 Fri 16:15]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*lit review/writing][lit review/writing]]
+
 * Projects
 ** MaSc                                                               :masc:
 
