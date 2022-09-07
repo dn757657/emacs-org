@@ -1,44 +1,52 @@
 * Inbox
 
-** NEXT lit review/writing
-SCHEDULED: <2022-09-09 Fri>
-  [2022-09-02 Fri 16:06]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*print caverna shape_001 branch and report][print caverna shape_001 branch and report]]
-
-** NEXT JJ report writing
+** NEXT prep varioshore-maxnozzletemp-shape_002
 SCHEDULED: <2022-09-08 Thu>
-  [2022-09-02 Fri 16:06]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*print caverna shape_001 branch and report][print caverna shape_001 branch and report]]
+- sample platter as varioshore-shape_002
+  [2022-09-07 Wed 15:29]
+  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Observations][Observations]]
 
-** NEXT final iteration of box clip
-- fix wiggly post
-- ensure 0.1 clearance to rail from foot feature
+** NEXT run varioshore-maxnozzletemp-shape_002
+SCHEDULED: <2022-09-08 Thu>
+- sample platter as varioshore-shape_002
+  [2022-09-07 Wed 15:29]
+  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Observations][Observations]]
+
+** NEXT prep varioshore-maxbedtemp-shape_002 branch
+- same platter as prev branch 
+  [2022-09-07 Wed 15:31]
+  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Observations][Observations]]
+
+** NEXT run varioshore-maxbedtemp-shape_002 branch
+SCHEDULED: <2022-09-08 Thu>
+- same platter as prev branch 
+  [2022-09-07 Wed 15:31]
+  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Observations][Observations]]
+
+** NEXT caverna-shape_002 baseline branch
 SCHEDULED: <2022-09-09 Fri>
-  [2022-09-02 Fri 16:14]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*lit review/writing][lit review/writing]]
+- ditch shape_001 because it doesnt make any sense for the intended investigation
+  [2022-09-07 Wed 15:33]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*run varioshore-maxbedtemp-shape_002 branch][run varioshore-maxbedtemp-shape_002 branch]]
 
-** BACKLOG drop rails and drawings for enclosure off to peter
-  [2022-09-02 Fri 16:15]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*lit review/writing][lit review/writing]]
+** BACKLOG update bracket with clerance hole for box
+  [2022-09-07 Wed 15:39]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*plan for lit review based on Doman notes][plan for lit review based on Doman notes]]
 
-** NEXT order meme food
-  [2022-09-02 Fri 16:16]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*get dal card and ensure lab access still][get dal card and ensure lab access still]]
+** NEXT lab 1a MECH 6040
+SCHEDULED: <2022-09-09 Fri> DEADLINE: <2022-09-16 Fri>
+  [2022-09-07 Wed 15:40]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*final iteration of box clip][final iteration of box clip]]
 
-** NEXT skin care
--inky?
-  [2022-09-02 Fri 16:17]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*get dal card and ensure lab access still][get dal card and ensure lab access still]]
+** NEXT lab 1b MECH 6040
+SCHEDULED: <2022-09-12 Mon> DEADLINE: <2022-09-16 Fri>
+  [2022-09-07 Wed 15:40]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*final iteration of box clip][final iteration of box clip]]
 
 * Projects
 ** MaSc                                                               :masc:
 
 *** masc - Class
-
-**** NEXT print stuff for 6040
-SCHEDULED: <2022-09-06 Tue>
-  [2022-09-02 Fri 15:52]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*final casting sample for JJ][final casting sample for JJ]]
 
 *** masc - Setup                                                    :setup:
 
@@ -52,25 +60,21 @@ SCHEDULED: <2022-09-06 Tue>
 
 *** masc - Testing
 
-**** NEXT print varioshore shape_001 branch and report
-SCHEDULED: <2022-09-07 Wed>
-  [2022-09-02 Fri 15:50]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*email workflow in emacs][email workflow in emacs]]
-
-**** NEXT print caverna shape_001 branch and report
-SCHEDULED: <2022-09-06 Tue>
-  [2022-09-02 Fri 15:51]
-
 *** masc - Writing 
 
 **** NEXT plan for lit review based on Doman notes
-SCHEDULED: <2022-09-07 Wed>
+SCHEDULED: <2022-09-08 Thu>
   [2022-09-02 Fri 15:49]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*setup box components for printing][setup box components for printing]]
 
+**** NEXT lit review/writing
+SCHEDULED: <2022-09-09 Fri>
+  [2022-09-02 Fri 16:06]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*print caverna shape_001 branch and report][print caverna shape_001 branch and report]]
+
 *** masc - Reading                                                :reading:
 **** NEXT Military Injury and Biomechanics notes (ongoing)    :@work:masc:
-SCHEDULED: <2022-09-07 Wed> Deadline: <2022-07-15 Fri>
+SCHEDULED: <2022-09-08 Thu> Deadline: <2022-07-15 Fri>
   [2022-07-08 Fri 12:28]
   [[file:~/.emacs::setq org-roam-v2-ack t]]
   
@@ -78,7 +82,18 @@ SCHEDULED: <2022-09-07 Wed> Deadline: <2022-07-15 Fri>
 
 *** masc - Procurement
 
+**** BACKLOG drop rails and drawings for enclosure off to peter
+  [2022-09-02 Fri 16:15]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*lit review/writing][lit review/writing]]
+
 *** masc - Design
+
+**** NEXT final iteration of box clip
+SCHEDULED: <2022-09-09 Fri>
+- fix wiggly post
+- ensure 0.1 clearance to rail from foot feature
+  [2022-09-02 Fri 16:14]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*lit review/writing][lit review/writing]]
 
 ** IUD Project/Contract                                       :masc:IUDproj:
 
@@ -88,9 +103,11 @@ SCHEDULED: <2022-09-07 Wed> Deadline: <2022-07-15 Fri>
 
 *** IUD - Admin
 
-**** NEXT plan/outline report for first diaphragm casting project/contract
+**** WAIT plan/outline report for first diaphragm casting project/contract
 SCHEDULED: <2022-09-08 Thu>
 :LOGBOOK:
+- State "WAIT"       from "NEXT"       [2022-09-07 Wed 15:36] \\
+  doman report outline
 - State "NEXT"       from "WAIT"       [2022-09-02 Fri 16:03]
 - State "WAIT"       from "READY"      [2022-08-26 Fri 12:35] \\
   wait for completion of final testing and discussion with doman
@@ -98,11 +115,14 @@ SCHEDULED: <2022-09-08 Thu>
   [2022-08-26 Fri 12:35]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*modify auctex from org template][modify auctex from org template]]
 
-**** NEXT final casting sample for JJ
-SCHEDULED: <2022-09-06 Tue>
-- see doman notes, pictures favoured etc
-  [2022-09-02 Fri 15:48]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*report for first diaphragm casting project/contract][report for first diaphragm casting project/contract]]
+**** WAIT JJ report writing
+SCHEDULED: <2022-09-08 Thu>
+:LOGBOOK:
+- State "WAIT"       from "NEXT"       [2022-09-07 Wed 15:35] \\
+  need darrel to post template as noted on sept 6
+:END:
+  [2022-09-02 Fri 16:06]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*print caverna shape_001 branch and report][print caverna shape_001 branch and report]]
 
 *** IUD - Testing
 ** Emacs                                                             :emacs:
@@ -228,6 +248,7 @@ https://emacs.stackexchange.com/questions/63498/citations-with-page-numbers-from
 **** FinModels - Model
 
 **** NEXT explore basic cascade processing applications in assembler paradigm
+SCHEDULED: <2022-09-11 Sun>
   [2022-08-26 Fri 12:28]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
 
@@ -279,7 +300,7 @@ SCHEDULED: <2022-09-08 Thu> DEADLINE: <2022-09-02 Fri>
   [[file:~/.emacs::setq org-roam-v2-ack t]]
 
 ** NEXT update phone plan
- SCHEDULED: <2022-09-15 Thu> DEADLINE: <2022-09-02 Fri>
+ SCHEDULED: <2022-09-09 Fri> DEADLINE: <2022-09-02 Fri>
 :LOGBOOK:
 - State "DONE"       from "NEXT"       [2022-07-11 Mon 09:20]
 :END:
@@ -292,9 +313,18 @@ SCHEDULED: <2022-09-08 Thu> DEADLINE: <2022-09-02 Fri>
 DEADLINE: <2022-07-31 Sun>
   [2022-07-09 Sat 13:24]
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Process oustanding finance][Process oustanding finance]]
-** NEXT get dal card and ensure lab access still
-SCHEDULED: <2022-09-06 Tue>
+** DONE get dal card and ensure lab access still
+CLOSED: [2022-09-06 Tue 13:21] SCHEDULED: <2022-09-06 Tue>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-06 Tue 13:21]
+:END:
   [2022-09-02 Fri 15:52]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*final casting sample for JJ][final casting sample for JJ]]
 
   
+** NEXT skin care
+SCHEDULED: <2022-09-10 Sat>
+-inky?
+  [2022-09-02 Fri 16:17]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*get dal card and ensure lab access still][get dal card and ensure lab access still]]
+

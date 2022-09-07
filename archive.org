@@ -599,6 +599,46 @@ CLOSED: [2022-09-02 Fri 15:47] SCHEDULED: <2022-09-05 Mon>
   [2022-08-26 Fri 12:26]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
 
+** DONE coda proof testing video of coil cast
+CLOSED: [2022-09-07 Wed 09:56] DEADLINE: <2022-09-06 Tue>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-07 Wed 09:56]
+:END:
+  [2022-09-06 Tue 10:23]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*final iteration of box clip][final iteration of box clip]]
+
+** DONE print stuff for 6040
+CLOSED: [2022-09-06 Tue 13:20] SCHEDULED: <2022-09-06 Tue>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-06 Tue 13:20]
+:END:
+  [2022-09-02 Fri 15:52]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*final casting sample for JJ][final casting sample for JJ]]
+
+** DONE final casting sample for JJ
+CLOSED: [2022-09-06 Tue 13:21] SCHEDULED: <2022-09-06 Tue>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-06 Tue 13:21]
+:END:
+- see doman notes, pictures favoured etc
+  [2022-09-02 Fri 15:48]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*report for first diaphragm casting project/contract][report for first diaphragm casting project/contract]]
+
+** DONE print varioshore shape_001 branch and report
+CLOSED: [2022-09-07 Wed 09:59] SCHEDULED: <2022-09-07 Wed>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-07 Wed 09:59]
+:END:
+  [2022-09-02 Fri 15:50]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*email workflow in emacs][email workflow in emacs]]
+
+** DONE print caverna shape_001 branch and report
+CLOSED: [2022-09-07 Wed 09:59] SCHEDULED: <2022-09-06 Tue>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-07 Wed 09:59]
+:END:
+  [2022-09-02 Fri 15:51]
+
 * Archive Admin
 ** DONE Finish some struff
 CLOSED: [2022-07-07 Thu 15:30] DEADLINE: <2022-07-11 Mon>
@@ -791,4 +831,12 @@ CLOSED: [2022-08-26 Fri 12:34]
 :END:
   [2022-08-09 Tue 12:27]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*spec and order 3d printer][spec and order 3d printer]]
+
+** DONE order meme food
+CLOSED: [2022-09-06 Tue 10:12]
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-06 Tue 10:12]
+:END:
+  [2022-09-02 Fri 16:16]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*get dal card and ensure lab access still][get dal card and ensure lab access still]]
 
