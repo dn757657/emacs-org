@@ -639,6 +639,67 @@ CLOSED: [2022-09-07 Wed 09:59] SCHEDULED: <2022-09-06 Tue>
 :END:
   [2022-09-02 Fri 15:51]
 
+** DONE run varioshore-bedtemp-shape_002 branch
+CLOSED: [2022-09-30 Fri 10:32] SCHEDULED: <2022-09-20 Tue>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-30 Fri 10:32]
+:END:
+- same platter as prev branch 
+  [2022-09-07 Wed 15:31]
+  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Observations][Observations]]
+
+** DONE 1st Experimental Lab Group A MECH3705
+CLOSED: [2022-10-04 Tue 17:48] SCHEDULED: <2022-10-04 Tue>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-10-04 Tue 17:48]
+:END:
+  [2022-09-13 Tue 11:27]
+  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Next][Next]]
+
+** DONE BMNG Assignment 1
+CLOSED: [2022-09-30 Fri 10:32] SCHEDULED: <2022-09-28 Wed>DEADLINE: <2022-09-30 Fri>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-09-30 Fri 10:32]
+:END:
+  [2022-09-13 Tue 13:25]
+
+** DONE BMNG Assignment 2
+CLOSED: [2022-10-05 Wed 16:29] SCHEDULED: <2022-10-05 Wed> DEADLINE: <2022-10-07 Fri>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-10-05 Wed 16:29]
+:END:
+  [2022-09-13 Tue 13:30]
+
+** DONE MECH 3705 prep for first lab
+CLOSED: [2022-09-30 Fri 11:17] DEADLINE: <2022-09-23 Fri>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-09-30 Fri 11:17]
+:END:
+  [2022-09-16 Fri 11:32]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Assignment 1][BMNG Assignment 1]]
+
+** DONE MECH 6040 print/submit lab2
+CLOSED: [2022-09-30 Fri 11:18] SCHEDULED: <2022-10-04 Tue>DEADLINE: <2022-09-23 Fri>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-30 Fri 11:18]
+:END:
+  [2022-09-16 Fri 11:33]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Assignment 1][BMNG Assignment 1]]
+
+** DONE MECH 6040 lab 3 - prep
+CLOSED: [2022-09-30 Fri 10:32] DEADLINE: <2022-09-30 Fri> SCHEDULED: <2022-09-22 Thu>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-09-30 Fri 10:32]
+:END:
+  [2022-09-16 Fri 11:57]
+
+** DONE design coiling tool
+CLOSED: [2022-11-17 Thu 15:53]
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-11-17 Thu 15:53]
+:END:
+  [2022-09-16 Fri 12:12]
+
 * Archive Admin
 ** DONE Finish some struff
 CLOSED: [2022-07-07 Thu 15:30] DEADLINE: <2022-07-11 Mon>
@@ -838,5 +899,31 @@ CLOSED: [2022-09-06 Tue 10:12]
 - State "DONE"       from "NEXT"       [2022-09-06 Tue 10:12]
 :END:
   [2022-09-02 Fri 16:16]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*get dal card and ensure lab access still][get dal card and ensure lab access still]]
+
+** DONE shipping pick up
+CLOSED: [2022-09-30 Fri 10:21] SCHEDULED: <2022-09-19 Mon>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-30 Fri 10:21]
+:END:
+  [2022-09-16 Fri 11:33]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG 5210 Assignment 3][BMNG 5210 Assignment 3]]
+
+** DONE update phone plan
+ CLOSED: [2022-09-30 Fri 10:21] SCHEDULED: <2022-09-16 Fri> DEADLINE: <2022-09-02 Fri>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-30 Fri 10:21]
+- State "DONE"       from "NEXT"       [2022-07-11 Mon 09:20]
+:END:
+  [2022-07-09 Sat 11:00]
+  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Process oustanding finance][Process oustanding finance]]
+
+** DONE skin care - treatment/retinol?
+CLOSED: [2022-11-17 Thu 16:07]
+:LOGBOOK:
+- State "DONE"       from "BACKLOG"    [2022-11-17 Thu 16:07]
+:END:
+-inky?
+  [2022-09-02 Fri 16:17]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*get dal card and ensure lab access still][get dal card and ensure lab access still]]
 

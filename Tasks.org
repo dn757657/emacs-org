@@ -1,205 +1,88 @@
 * Inbox
 
-** DONE prep varioshore-bedtemp-shape_002 branch
-CLOSED: [2022-09-30 Fri 10:32] SCHEDULED: <2022-09-20 Tue>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-09-30 Fri 10:32]
-:END:
-- use custom g code to change bed temp after each part
-- print at same temps as previous branch
-- custom g code for nozzle clean between components?
-  [2022-09-07 Wed 15:31]
-  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Observations][Observations]]
+** NEXT FGS Scholarships Video
+DEADLINE: <2022-12-01 Thu>
+  [2022-11-17 Thu 17:52]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
 
-** DONE run varioshore-bedtemp-shape_002 branch
-CLOSED: [2022-09-30 Fri 10:32] SCHEDULED: <2022-09-20 Tue>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-09-30 Fri 10:32]
-:END:
-- same platter as prev branch 
-  [2022-09-07 Wed 15:31]
-  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Observations][Observations]]
+** NEXT FGS Scholarships Application
+DEADLINE: <2022-12-01 Thu>
+  [2022-11-17 Thu 17:53]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
 
-** BACKLOG update bracket with clerance hole for box
-  [2022-09-07 Wed 15:39]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*plan for lit review based on Doman notes][plan for lit review based on Doman notes]]
+** NEXT BMNG A7
+SCHEDULED: <2022-11-18 Fri> DEADLINE: <2022-11-18 Fri>
+  [2022-11-17 Thu 17:53]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*FGS Scholarships Application][FGS Scholarships Application]]
 
-** DONE 1st Experimental Lab Group A MECH3705
-CLOSED: [2022-10-04 Tue 17:48] SCHEDULED: <2022-10-04 Tue>
-:LOGBOOK:
-- State "DONE"       from "READY"      [2022-10-04 Tue 17:48]
-:END:
-  [2022-09-13 Tue 11:27]
-  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Next][Next]]
+** NEXT BMNG A8
+DEADLINE: <2022-11-25 Fri>
+  [2022-11-17 Thu 17:54]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG A7][BMNG A7]]
 
-** READY 1st Experimental Session Group B MECH 3705
-SCHEDULED: <2022-10-11 Tue>
-  [2022-09-13 Tue 11:29]
-  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Next][Next]]
+** NEXT BMNG Project Plan
+DEADLINE: <2022-11-23 Wed>
+  [2022-11-17 Thu 17:55]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG A8][BMNG A8]]
 
-** READY 2nd Experimental Session Group A & B MECH 3705
-SCHEDULED: <2022-10-25 Tue>
-  [2022-09-13 Tue 11:30]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*1st Experimental Lab Group A MECH3705][1st Experimental Lab Group A MECH3705]]
+** NEXT BMNG Report 
+DEADLINE: <2022-12-21 Wed>
+  [2022-11-17 Thu 17:55]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG A8][BMNG A8]]
 
-** DONE BMNG Assignment 1
-CLOSED: [2022-09-30 Fri 10:32] SCHEDULED: <2022-09-28 Wed>DEADLINE: <2022-09-30 Fri>
-:LOGBOOK:
-- State "DONE"       from "READY"      [2022-09-30 Fri 10:32]
-:END:
-  [2022-09-13 Tue 13:25]
+** NEXT BMNG Presentation
+DEADLINE: <2022-12-21 Wed>
+  [2022-11-17 Thu 17:56]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG A8][BMNG A8]]
 
-** DONE BMNG Assignment 2
-CLOSED: [2022-10-05 Wed 16:29] SCHEDULED: <2022-10-05 Wed> DEADLINE: <2022-10-07 Fri>
-:LOGBOOK:
-- State "DONE"       from "READY"      [2022-10-05 Wed 16:29]
-:END:
-  [2022-09-13 Tue 13:30]
+** NEXT BMNG LAB 7
+SCHEDULED: <2022-11-21 Mon>
+  [2022-11-17 Thu 17:57]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Project Plan][BMNG Project Plan]]
 
-** READY BMNG 5210 Assignment 3
-DEADLINE: <2022-10-14 Fri>
-  [2022-09-13 Tue 13:31]
+** NEXT MECH6040 Project Inspection
+DEADLINE: <2022-12-01 Thu>
+  [2022-11-17 Thu 17:58]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG LAB 7][BMNG LAB 7]]
 
-** READY upright shape 2 - planning/prep/print
-SCHEDULED: <2022-10-07 Fri>
-- prep both filaments
-- try both filaments
-  [2022-09-16 Fri 11:28]
+** NEXT MECH6040 Project Report
+DEADLINE: <2022-12-07 Wed>
+  [2022-11-17 Thu 17:59]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Presentation][BMNG Presentation]]
 
-** READY upright shape per upright wall failures
-SCHEDULED: <2022-10-06 Thu>
-- anticipated that upright wall will fail
-  [2022-09-16 Fri 11:29]
-
-** DONE MECH 3705 prep for first lab
-CLOSED: [2022-09-30 Fri 11:17] DEADLINE: <2022-09-23 Fri>
-:LOGBOOK:
-- State "DONE"       from "READY"      [2022-09-30 Fri 11:17]
-:END:
-  [2022-09-16 Fri 11:32]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Assignment 1][BMNG Assignment 1]]
-
-** DONE MECH 6040 print/submit lab2
-CLOSED: [2022-09-30 Fri 11:18] SCHEDULED: <2022-10-04 Tue>DEADLINE: <2022-09-23 Fri>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-09-30 Fri 11:18]
-:END:
-  [2022-09-16 Fri 11:33]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Assignment 1][BMNG Assignment 1]]
-
-** DONE shipping pick up
-CLOSED: [2022-09-30 Fri 10:21] SCHEDULED: <2022-09-19 Mon>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-09-30 Fri 10:21]
-:END:
-  [2022-09-16 Fri 11:33]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG 5210 Assignment 3][BMNG 5210 Assignment 3]]
-
-** DONE MECH 6040 lab 3 - prep
-CLOSED: [2022-09-30 Fri 10:32] DEADLINE: <2022-09-30 Fri> SCHEDULED: <2022-09-22 Thu>
-:LOGBOOK:
-- State "DONE"       from "READY"      [2022-09-30 Fri 10:32]
-:END:
-  [2022-09-16 Fri 11:57]
-
-** WAIT design mold
-SCHEDULED: <2022-10-05 Wed>
-:LOGBOOK:
-- State "WAIT"       from "NEXT"       [2022-09-30 Fri 10:22] \\
-  tuesday doman meeting - doesnt work
-:END:
-  [2022-09-16 Fri 12:11]
-
-** TODO design coiling tool
-  [2022-09-16 Fri 12:12]
-
-** DONE design coiling tool 
-CLOSED: [2022-09-30 Fri 10:32] SCHEDULED: <2022-09-20 Tue>
-:LOGBOOK:
-- State "DONE"       from "READY"      [2022-09-30 Fri 10:32]
-:END:
-  [2022-09-16 Fri 12:13]
-
-** DONE design nylon core
-CLOSED: [2022-10-04 Tue 17:48] SCHEDULED: <2022-09-22 Thu>
-:LOGBOOK:
-- State "DONE"       from "READY"      [2022-10-04 Tue 17:48]
-:END:
-  [2022-09-16 Fri 12:14]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*upright shape 2 - planning/prep/print][upright shape 2 - planning/prep/print]]
-
-** READY print mold
-SCHEDULED: <2022-10-07 Fri>
-  [2022-09-16 Fri 12:15]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*MECH 6040 print/submit lab2][MECH 6040 print/submit lab2]]
-r
-** NEXT get nylon and copper from Doman
--slack?
-  [2022-09-16 Fri 12:16]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Assignment 1][BMNG Assignment 1]]
-
-** READY print coiling tool
-SCHEDULED: <2022-10-06 Thu>
-  [2022-09-16 Fri 12:28]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*get nylon and copper from Doman][get nylon and copper from Doman]]
-
-** READY print core(s) x 4 (2 tests, 2 samples)
-SCHEDULED: <2022-10-06 Thu>
-- research nylon printing params
-- check general and manufacturer
-  [2022-09-16 Fri 12:31]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*get nylon and copper from Doman][get nylon and copper from Doman]]
-
-** READY casting silicone only
-SCHEDULED: <2022-10-10 Mon>
-  [2022-09-16 Fri 12:33]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*design nylon core][design nylon core]]
-
-** READY casting silicone and core
-SCHEDULED: <2022-10-11 Tue>
-  [2022-09-16 Fri 12:34]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*design nylon core][design nylon core]]
-
-** READY casting silicone, core and embedded sample
-SCHEDULED: <2022-10-12 Wed>
-  [2022-09-16 Fri 12:34]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*design nylon core][design nylon core]]
-
-** READY report writing JJ round 2
-DEADLINE: <2022-10-21 Fri> SCHEDULED: <2022-10-17 Mon>
-  [2022-09-16 Fri 12:34]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*design nylon core][design nylon core]]
-
-** DONE MECH6040 print/submit lab3
-CLOSED: [2022-10-04 Tue 17:47] DEADLINE: <2022-10-04 Tue> SCHEDULED: <2022-10-03 Mon>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-10-04 Tue 17:47]
-:END:
-  [2022-09-30 Fri 11:20]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*upright shape 2 - planning/prep/print][upright shape 2 - planning/prep/print]]
-
-** TODO MECH 6040 print/submit lab4
-DEADLINE: <2022-10-11 Tue> SCHEDULED: <2022-10-06 Thu>
-  [2022-09-30 Fri 11:24]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*MECH6040 print/submit lab3][MECH6040 print/submit lab3]]
-
-** READY MECH 6040 lab5 print/submit
-SCHEDULED: <2022-10-10 Mon> DEADLINE: <2022-10-17 Mon>
-  [2022-09-30 Fri 11:29]
-
-** NEXT ORDER CONTACTS
-SCHEDULED: <2022-10-07 Fri>
-  [2022-10-06 Thu 17:08]
-  [[file:c:/Users/Daniel/emacs/roam/20221006140347-mech_6040_lab4.org::*Circle][Circle]]
+** NEXT MECH6040 Project Files
+  [2022-11-17 Thu 17:59]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Presentation][BMNG Presentation]]
 
 * Projects
 ** MaSc                                                               :masc:
 
-*** masc - Class
+*** masc - admin
 
-*** masc - Setup                                                    :setup:
+*** masc - MECH6040
+
+*** masc - BMNG5210
+
+*** masc - MECH3705
+
+**** TODO MECH3705 Lab Marking LAB1 gB
+- 12 labs to mark
+- see rubric online
+DEADLINE: <2022-11-23 Wed>
+  [2022-11-17 Thu 15:51]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*1st Experimental Lab Group A MECH3705][1st Experimental Lab Group A MECH3705]]
+  
+**** TODO MECH3705 Lab Marking LAB1 gA
+- 12 labs to mark
+- see rubric online
+DEADLINE: <2022-11-23 Wed>
+  [2022-11-17 Thu 15:51]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*1st Experimental Lab Group A MECH3705][1st Experimental Lab Group A MECH3705]]
+
+*** masc - Printer Box                                              :setup:
 
 **** WAIT assemble box for printer
+DEADLINE: <2022-12-16 Fri>
 :LOGBOOK:
 - State "WAIT"       from "TODO"       [2022-08-26 Fri 12:31] \\
   need prusa and printed parts
@@ -207,7 +90,32 @@ SCHEDULED: <2022-10-07 Fri>
   [2022-08-26 Fri 12:28]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
 
-*** masc - Testing
+**** BACKLOG final iteration of box clip
+- fix wiggly post
+- ensure 0.1 clearance to rail from foot feature
+  [2022-09-02 Fri 16:14]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*lit review/writing][lit review/writing]]
+
+**** BACKLOG drop rails and drawings for enclosure off to peter
+  [2022-09-02 Fri 16:15]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*lit review/writing][lit review/writing]]
+
+**** BACKLOG update bracket with clerance hole for box
+  [2022-09-07 Wed 15:39]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*plan for lit review based on Doman notes][plan for lit review based on Doman notes]]
+
+*** masc - Research
+
+**** READY upright shape 2 - planning/prep/print
+SCHEDULED: <2022-10-07 Fri>
+- prep both filaments
+- try both filaments
+  [2022-09-16 Fri 11:28]
+
+**** READY upright shape per upright wall failures
+SCHEDULED: <2022-10-06 Thu>
+- anticipated that upright wall will fail
+  [2022-09-16 Fri 11:29]
 
 *** masc - Writing 
 
@@ -216,9 +124,10 @@ SCHEDULED: <2022-10-05 Wed>
   [2022-09-02 Fri 15:49]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*setup box components for printing][setup box components for printing]]
 
-**** DONE lit review/writing
-CLOSED: [2022-09-16 Fri 12:14] SCHEDULED: <2022-09-09 Fri>
+**** NEXT lit review/writing
+SCHEDULED: <2022-09-09 Fri>
 :LOGBOOK:
+- State "DONE"       from "BACKLOG"    [2022-11-17 Thu 15:49]
 - State "DONE"       from "READY"      [2022-09-16 Fri 12:14]
 :END:
 - need deadline
@@ -235,18 +144,118 @@ SCHEDULED: <2022-10-08 Sat>
 
 *** masc - Procurement
 
-**** BACKLOG drop rails and drawings for enclosure off to peter
-  [2022-09-02 Fri 16:15]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*lit review/writing][lit review/writing]]
-
 *** masc - Design
 
-**** BACKLOG final iteration of box clip
-- fix wiggly post
-- ensure 0.1 clearance to rail from foot feature
-  [2022-09-02 Fri 16:14]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*lit review/writing][lit review/writing]]
+*** masc - archive
 
+**** DONE prep varioshore-maxnozzletemp-shape_002
+CLOSED: [2022-09-13 Tue 13:08] SCHEDULED: <2022-09-08 Thu>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-13 Tue 13:08]
+:END:
+- sample platter as varioshore-shape_002
+  [2022-09-07 Wed 15:29]
+  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Observations][Observations]]
+
+**** DONE run varioshore-maxnozzletemp-shape_002
+CLOSED: [2022-09-13 Tue 13:08] SCHEDULED: <2022-09-08 Thu>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-13 Tue 13:08]
+:END:
+- sample platter as varioshore-shape_002
+  [2022-09-07 Wed 15:29]
+  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Observations][Observations]]
+
+**** DONE caverna-shape_002 baseline branch
+CLOSED: [2022-09-16 Fri 11:31] SCHEDULED: <2022-09-15 Thu>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-16 Fri 11:31]
+:END:
+- ditch shape_001 because it doesnt make any sense for the intended investigation
+  [2022-09-07 Wed 15:33]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*run varioshore-maxbedtemp-shape_002 branch][run varioshore-maxbedtemp-shape_002 branch]]
+
+**** DONE lab 1a MECH 6040 - prep
+CLOSED: [2022-09-13 Tue 13:21] SCHEDULED: <2022-09-09 Fri> DEADLINE: <2022-09-16 Fri>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-13 Tue 13:21]
+:END:
+  [2022-09-07 Wed 15:40]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*final iteration of box clip][final iteration of box clip]]
+
+**** DONE lab 1b MECH 6040 - prep
+CLOSED: [2022-09-13 Tue 13:58] SCHEDULED: <2022-09-13 Tue> DEADLINE: <2022-09-16 Fri>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-13 Tue 13:58]
+:END:
+  [2022-09-07 Wed 15:40]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*final iteration of box clip][final iteration of box clip]]
+ 
+**** DONE install labview
+CLOSED: [2022-09-13 Tue 13:19] DEADLINE: <2022-09-12 Mon>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-13 Tue 13:19]
+:END:
+  [2022-09-08 Thu 17:15]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*]]
+
+**** DONE MECH 6040 print/submit lab 1a
+CLOSED: [2022-09-16 Fri 11:31] DEADLINE: <2022-09-16 Fri> SCHEDULED: <2022-09-15 Thu>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-16 Fri 11:31]
+:END:
+  [2022-09-13 Tue 13:58]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Process oustanding finance][Process oustanding finance]]
+
+**** DONE MECH 6040 print/submit lab 1b
+CLOSED: [2022-09-16 Fri 11:31] SCHEDULED: <2022-09-14 Wed> DEADLINE: <2022-09-16 Fri>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-16 Fri 11:31]
+:END:
+  [2022-09-13 Tue 13:58]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*lab 1b MECH 6040 - prep][lab 1b MECH 6040 - prep]]
+
+**** DONE MECH6040 print/submit lab3
+CLOSED: [2022-10-04 Tue 17:47] DEADLINE: <2022-10-04 Tue> SCHEDULED: <2022-10-03 Mon>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-10-04 Tue 17:47]
+:END:
+  [2022-09-30 Fri 11:20]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*upright shape 2 - planning/prep/print][upright shape 2 - planning/prep/print]]
+
+**** DONE 1st Experimental Session Group B MECH 3705
+CLOSED: [2022-11-17 Thu 15:58] SCHEDULED: <2022-10-11 Tue>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-11-17 Thu 15:58]
+:END:
+  [2022-09-13 Tue 11:29]
+  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Next][Next]]
+
+**** DONE 2nd Experimental Session Group A & B MECH 3705
+CLOSED: [2022-11-17 Thu 15:58] SCHEDULED: <2022-10-25 Tue>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-11-17 Thu 15:58]
+:END:
+  [2022-09-13 Tue 11:30]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*1st Experimental Lab Group A MECH3705][1st Experimental Lab Group A MECH3705]]
+
+**** DONE BMNG 5210 Assignment 3
+CLOSED: [2022-11-17 Thu 15:58] DEADLINE: <2022-10-14 Fri>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-11-17 Thu 15:58]
+:END:
+  [2022-09-13 Tue 13:31]
+
+**** DONE prep varioshore-bedtemp-shape_002 branch
+CLOSED: [2022-09-30 Fri 10:32] SCHEDULED: <2022-09-20 Tue>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-30 Fri 10:32]
+:END:
+- use custom g code to change bed temp after each part
+- print at same temps as previous branch
+- custom g code for nozzle clean between components?
+  [2022-09-07 Wed 15:31]
+  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Observations][Observations]]
 ** IUD Project/Contract                                       :masc:IUDproj:
 
 *** IUD - Modelling                                             :modelling:
@@ -254,6 +263,96 @@ SCHEDULED: <2022-10-08 Sat>
 *** IUD - Printing                                               :print:3D:
 
 *** IUD - Admin
+
+**** READY report writing JJ round 2
+DEADLINE: <2022-10-21 Fri> SCHEDULED: <2022-10-17 Mon>
+  [2022-09-16 Fri 12:34]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*design nylon core][design nylon core]]
+
+*** IUD - Testing
+*** IUD - archive
+**** DONE design mold
+CLOSED: [2022-11-17 Thu 15:58] SCHEDULED: <2022-10-05 Wed>
+:LOGBOOK:
+- State "DONE"       from "WAIT"       [2022-11-17 Thu 15:58]
+- State "WAIT"       from "NEXT"       [2022-09-30 Fri 10:22] \\
+  tuesday doman meeting - doesnt work
+:END:
+  [2022-09-16 Fri 12:11]
+
+**** DONE design coiling tool 
+CLOSED: [2022-09-30 Fri 10:32] SCHEDULED: <2022-09-20 Tue>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-09-30 Fri 10:32]
+:END:
+  [2022-09-16 Fri 12:13]
+
+**** DONE design nylon core
+CLOSED: [2022-10-04 Tue 17:48] SCHEDULED: <2022-09-22 Thu>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-10-04 Tue 17:48]
+:END:
+  [2022-09-16 Fri 12:14]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*upright shape 2 - planning/prep/print][upright shape 2 - planning/prep/print]]
+
+**** DONE print mold
+CLOSED: [2022-11-17 Thu 15:58] SCHEDULED: <2022-10-07 Fri>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-11-17 Thu 15:58]
+:END:
+  [2022-09-16 Fri 12:15]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*MECH 6040 print/submit lab2][MECH 6040 print/submit lab2]]
+r
+**** DONE get nylon and copper from Doman
+CLOSED: [2022-11-17 Thu 15:58]
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-11-17 Thu 15:58]
+:END:
+-slack?
+  [2022-09-16 Fri 12:16]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Assignment 1][BMNG Assignment 1]]
+
+**** DONE print coiling tool
+CLOSED: [2022-11-17 Thu 15:58] SCHEDULED: <2022-10-06 Thu>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-11-17 Thu 15:58]
+:END:
+  [2022-09-16 Fri 12:28]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*get nylon and copper from Doman][get nylon and copper from Doman]]
+
+**** DONE print core(s) x 4 (2 tests, 2 samples)
+CLOSED: [2022-11-17 Thu 15:58] SCHEDULED: <2022-10-06 Thu>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-11-17 Thu 15:58]
+:END:
+- research nylon printing params
+- check general and manufacturer
+  [2022-09-16 Fri 12:31]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*get nylon and copper from Doman][get nylon and copper from Doman]]
+
+**** DONE casting silicone only
+CLOSED: [2022-11-17 Thu 15:58] SCHEDULED: <2022-10-10 Mon>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-11-17 Thu 15:58]
+:END:
+  [2022-09-16 Fri 12:33]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*design nylon core][design nylon core]]
+
+**** DONE casting silicone and core
+CLOSED: [2022-11-17 Thu 15:58] SCHEDULED: <2022-10-11 Tue>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-11-17 Thu 15:58]
+:END:
+  [2022-09-16 Fri 12:34]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*design nylon core][design nylon core]]
+
+**** DONE casting silicone, core and embedded sample
+CLOSED: [2022-11-17 Thu 15:58] SCHEDULED: <2022-10-12 Wed>
+:LOGBOOK:
+- State "DONE"       from "READY"      [2022-11-17 Thu 15:58]
+:END:
+  [2022-09-16 Fri 12:34]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*design nylon core][design nylon core]]
 
 **** DONE plan/outline report for first diaphragm casting project/contract
 CLOSED: [2022-09-13 Tue 13:07] SCHEDULED: <2022-09-08 Thu>
@@ -278,10 +377,10 @@ CLOSED: [2022-09-13 Tue 13:07] SCHEDULED: <2022-09-08 Thu>
   [2022-09-02 Fri 16:06]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*print caverna shape_001 branch and report][print caverna shape_001 branch and report]]
 
-*** IUD - Testing
 ** Emacs                                                             :emacs:
 
 *** Emacs - Config                                                 :config:
+
 **** READY password management in emacs
   [2022-07-11 Mon 08:59]
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Emacs][Emacs]]
@@ -345,18 +444,21 @@ https://emacs.stackexchange.com/questions/63498/citations-with-page-numbers-from
 - this works presently so setting as backlog
 [2022-07-20 Wed 09:30]
 
+*** Emacs - archive
+
 ** Code                                                               :code:
 
-*** READY make notes on python basics in-case of prologned absence (from notebook too)
+*** READY mke notes on python basics in-case of prologned absence (from notebook too)
   [2022-07-08 Fri 14:42]
   [[file:c:/Users/Daniel/Documents/08_Emacs/roam/20220707112016-system_requirements.org::*balancing available vs new haredware purchase][balancing available vs new haredware purchase]]
-
 
 *** NEXT method for graphing dataframes outside of model framework?
 - create basic graphing funcs, could be better methodology
   - graphing lists of columns in dataframes
 [2022-07-10 Sun 15:23]
   [[file:c:/Users/Daniel/Documents/08_Emacs/roam/main/finmodels_forecasts.org::*Usage][Usage]]]
+
+*** Code - archive
 
 ** FinModels                                                     :finmodels:
 
@@ -401,14 +503,6 @@ https://emacs.stackexchange.com/questions/63498/citations-with-page-numbers-from
 
 **** FinModels - Model
 
-**** DONE explore basic cascade processing applications in assembler paradigm
-CLOSED: [2022-09-13 Tue 13:19] SCHEDULED: <2022-09-11 Sun>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-09-13 Tue 13:19]
-:END:
-  [2022-08-26 Fri 12:28]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
-
 *** FinModels - Processing
 
 **** READY Process oustanding finance 
@@ -429,6 +523,15 @@ DEADLINE: <2022-08-07 Sun +1w> SCHEDULED: <2022-08-06 Sat  +1w>
   [2022-07-08 Fri 15:05]
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Processing][Processing]]
   
+*** FinModels - archi
+**** DONE explore basic cascade processing applications in assembler paradigm
+CLOSED: [2022-09-13 Tue 13:19] SCHEDULED: <2022-09-11 Sun>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-09-13 Tue 13:19]
+:END:
+  [2022-08-26 Fri 12:28]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
+
 ** Temp Sensor                                                     :tsensor:
 *** Temp Sensor - Items
 **** READY buy raspi zero ro clone for temp sensor
@@ -444,75 +547,9 @@ DEADLINE: <2022-08-31 Wed>
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Temp Sensor][Temp Sensor]]
 
 *** Temp Sensor - Build
+*** Temp Sensor - archive
 
 ** Misc
-** DONE prep varioshore-maxnozzletemp-shape_002
-CLOSED: [2022-09-13 Tue 13:08] SCHEDULED: <2022-09-08 Thu>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-09-13 Tue 13:08]
-:END:
-- sample platter as varioshore-shape_002
-  [2022-09-07 Wed 15:29]
-  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Observations][Observations]]
-
-** DONE run varioshore-maxnozzletemp-shape_002
-CLOSED: [2022-09-13 Tue 13:08] SCHEDULED: <2022-09-08 Thu>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-09-13 Tue 13:08]
-:END:
-- sample platter as varioshore-shape_002
-  [2022-09-07 Wed 15:29]
-  [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Observations][Observations]]
-
-** DONE caverna-shape_002 baseline branch
-CLOSED: [2022-09-16 Fri 11:31] SCHEDULED: <2022-09-15 Thu>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-09-16 Fri 11:31]
-:END:
-- ditch shape_001 because it doesnt make any sense for the intended investigation
-  [2022-09-07 Wed 15:33]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*run varioshore-maxbedtemp-shape_002 branch][run varioshore-maxbedtemp-shape_002 branch]]
-
-** DONE lab 1a MECH 6040 - prep
-CLOSED: [2022-09-13 Tue 13:21] SCHEDULED: <2022-09-09 Fri> DEADLINE: <2022-09-16 Fri>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-09-13 Tue 13:21]
-:END:
-  [2022-09-07 Wed 15:40]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*final iteration of box clip][final iteration of box clip]]
-
-** DONE lab 1b MECH 6040 - prep
-CLOSED: [2022-09-13 Tue 13:58] SCHEDULED: <2022-09-13 Tue> DEADLINE: <2022-09-16 Fri>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-09-13 Tue 13:58]
-:END:
-  [2022-09-07 Wed 15:40]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*final iteration of box clip][final iteration of box clip]]
- 
-** DONE install labview
-CLOSED: [2022-09-13 Tue 13:19] DEADLINE: <2022-09-12 Mon>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-09-13 Tue 13:19]
-:END:
-  [2022-09-08 Thu 17:15]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*]]
-
-** DONE MECH 6040 print/submit lab 1a
-CLOSED: [2022-09-16 Fri 11:31] DEADLINE: <2022-09-16 Fri> SCHEDULED: <2022-09-15 Thu>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-09-16 Fri 11:31]
-:END:
-  [2022-09-13 Tue 13:58]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Process oustanding finance][Process oustanding finance]]
-
-** DONE MECH 6040 print/submit lab 1b
-CLOSED: [2022-09-16 Fri 11:31] SCHEDULED: <2022-09-14 Wed> DEADLINE: <2022-09-16 Fri>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-09-16 Fri 11:31]
-:END:
-  [2022-09-13 Tue 13:58]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*lab 1b MECH 6040 - prep][lab 1b MECH 6040 - prep]]
-
 * Admin                                                               :admin:
 
 ** NEXT Call Air North per baggage issue 
@@ -522,15 +559,6 @@ SCHEDULED: <2022-10-05 Wed> DEADLINE: <2022-10-07 Fri>
 :END:
   [2022-07-08 Fri 12:31]
   [[file:~/.emacs::setq org-roam-v2-ack t]]
-
-** DONE update phone plan
- CLOSED: [2022-09-30 Fri 10:21] SCHEDULED: <2022-09-16 Fri> DEADLINE: <2022-09-02 Fri>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2022-09-30 Fri 10:21]
-- State "DONE"       from "NEXT"       [2022-07-11 Mon 09:20]
-:END:
-  [2022-07-09 Sat 11:00]
-  [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Process oustanding finance][Process oustanding finance]]
 
 ** TODO collect on that cash from dads trip
 - ask mom about it
@@ -547,8 +575,3 @@ CLOSED: [2022-09-06 Tue 13:21] SCHEDULED: <2022-09-06 Tue>
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*final casting sample for JJ][final casting sample for JJ]]
 
   
-** BACKLOG skin care - treatment/retinol?
--inky?
-  [2022-09-02 Fri 16:17]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*get dal card and ensure lab access still][get dal card and ensure lab access still]]
-
