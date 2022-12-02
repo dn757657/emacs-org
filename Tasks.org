@@ -1,78 +1,70 @@
 * Inbox
 
-** NEXT FGS Scholarships Video
-DEADLINE: <2022-12-01 Thu>
-  [2022-11-17 Thu 17:52]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
-
-** NEXT FGS Scholarships Application
-DEADLINE: <2022-12-01 Thu>
-  [2022-11-17 Thu 17:53]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
-
-** NEXT BMNG A7
-SCHEDULED: <2022-11-18 Fri> DEADLINE: <2022-11-18 Fri>
-  [2022-11-17 Thu 17:53]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*FGS Scholarships Application][FGS Scholarships Application]]
-
-** NEXT BMNG A8
-DEADLINE: <2022-11-25 Fri>
-  [2022-11-17 Thu 17:54]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG A7][BMNG A7]]
-
-** NEXT BMNG Project Plan
-DEADLINE: <2022-11-23 Wed>
-  [2022-11-17 Thu 17:55]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG A8][BMNG A8]]
-
-** NEXT BMNG Report 
-DEADLINE: <2022-12-21 Wed>
-  [2022-11-17 Thu 17:55]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG A8][BMNG A8]]
-
-** NEXT BMNG Presentation
-DEADLINE: <2022-12-21 Wed>
-  [2022-11-17 Thu 17:56]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG A8][BMNG A8]]
-
-** NEXT BMNG LAB 7
-SCHEDULED: <2022-11-21 Mon>
-  [2022-11-17 Thu 17:57]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Project Plan][BMNG Project Plan]]
-
-** NEXT MECH6040 Project Inspection
-DEADLINE: <2022-12-01 Thu>
-  [2022-11-17 Thu 17:58]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG LAB 7][BMNG LAB 7]]
-
-** NEXT MECH6040 Project Report
-DEADLINE: <2022-12-07 Wed>
-  [2022-11-17 Thu 17:59]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Presentation][BMNG Presentation]]
-
-** NEXT MECH6040 Project Files
-  [2022-11-17 Thu 17:59]
-  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Presentation][BMNG Presentation]]
+** TODO organize files that are everywhere
+- maybe also backup
+  [2022-12-01 Thu 10:36]
+  [[file:c:/Users/Daniel/emacs/roam/20221130120900-mech_6040_report.org::*Build Steps][Build Steps]]
 
 * Projects
 ** MaSc                                                               :masc:
 
 *** masc - admin
 
+**** READY FGS Scholarships Application
+- outline breakdown
+ [[id:23fe5134-6a06-4e24-8e93-61cb2a6db80f][CGS-M Application]]
+DEADLINE: <2022-12-01 Thu>
+  [2022-11-17 Thu 17:53]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
+
+**** NEXT FGS Watch Tri-Agency Video
+-https://www.dal.ca/faculty/gradstudies/finance-your-studies/scholarships-bursaries/cgs-m.html
+  [2022-11-24 Thu 13:25]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Report][BMNG Report]]
+
 *** masc - MECH6040
+
+**** NEXT MECH6040 Project Inspection
+DEADLINE: <2022-12-01 Thu>
+  [2022-11-17 Thu 17:58]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG LAB 7][BMNG LAB 7]]
+
+**** READY MECH6040 Project Report
+DEADLINE: <2022-12-07 Wed>
+  [2022-11-17 Thu 17:59]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Presentation][BMNG Presentation]]
+
+**** ACTIVE MECH6040 Project Files
+  [2022-11-17 Thu 17:59]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Presentation][BMNG Presentation]]
 
 *** masc - BMNG5210
 
+**** NEXT BMNG Project Plan
+DEADLINE: <2022-11-25 Wed>
+  [2022-11-17 Thu 17:55]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG A8][BMNG A8]]
+
+**** READY BMNG Report 
+DEADLINE: <2022-12-21 Wed>
+  [2022-11-17 Thu 17:55]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG A8][BMNG A8]]
+
+**b** NEXT BMNG Presentation
+DEADLINE: <2022-12-16 Fri>
+  [2022-11-17 Thu 17:56]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG A8][BMNG A8]]
+
 *** masc - MECH3705
 
-**** TODO MECH3705 Lab Marking LAB1 gB
+**** READY MECH3705 Lab Marking LAB1 gB
 - 12 labs to mark
 - see rubric online
 DEADLINE: <2022-11-23 Wed>
   [2022-11-17 Thu 15:51]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*1st Experimental Lab Group A MECH3705][1st Experimental Lab Group A MECH3705]]
   
-**** TODO MECH3705 Lab Marking LAB1 gA
+**** READY MECH3705 Lab Marking LAB1 gA
 - 12 labs to mark
 - see rubric online
 DEADLINE: <2022-11-23 Wed>
@@ -90,7 +82,7 @@ DEADLINE: <2022-12-16 Fri>
   [2022-08-26 Fri 12:28]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*Inbox][Inbox]]
 
-**** BACKLOG final iteration of box clip
+**** READY final iteration of box clip
 - fix wiggly post
 - ensure 0.1 clearance to rail from foot feature
   [2022-09-02 Fri 16:14]
@@ -100,7 +92,7 @@ DEADLINE: <2022-12-16 Fri>
   [2022-09-02 Fri 16:15]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*lit review/writing][lit review/writing]]
 
-**** BACKLOG update bracket with clerance hole for box
+**** READY update bracket with clerance hole for box
   [2022-09-07 Wed 15:39]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*plan for lit review based on Doman notes][plan for lit review based on Doman notes]]
 
@@ -119,13 +111,15 @@ SCHEDULED: <2022-10-06 Thu>
 
 *** masc - Writing 
 
-**** NEXT plan for lit review based on Doman notes
+**** BACKLOG plan for lit review based on Doman notes
 SCHEDULED: <2022-10-05 Wed>
   [2022-09-02 Fri 15:49]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*setup box components for printing][setup box components for printing]]
 
-**** NEXT lit review/writing
-SCHEDULED: <2022-09-09 Fri>
+**** BACKLOG lit review/writing
+- review and reschdule/prioritize
+  
+DEADLINE: <2022-12-09 Fri> SCHEDULED: <2022-12-23 Fri>
 :LOGBOOK:
 - State "DONE"       from "BACKLOG"    [2022-11-17 Thu 15:49]
 - State "DONE"       from "READY"      [2022-09-16 Fri 12:14]
@@ -256,6 +250,30 @@ CLOSED: [2022-09-30 Fri 10:32] SCHEDULED: <2022-09-20 Tue>
 - custom g code for nozzle clean between components?
   [2022-09-07 Wed 15:31]
   [[file:c:/Users/Daniel/projects/MaSc/filament_qual/report.org::*Observations][Observations]]
+**** DONE BMNG A7
+CLOSED: [2022-11-24 Thu 11:59] SCHEDULED: <2022-11-18 Fri> DEADLINE: <2022-11-18 Fri>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-11-24 Thu 11:59]
+:END:
+  [2022-11-17 Thu 17:53]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*FGS Scholarships Application][FGS Scholarships Application]]
+
+**** DONE BMNG A8
+CLOSED: [2022-11-24 Thu 11:59] DEADLINE: <2022-11-25 Fri>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-11-24 Thu 11:59]
+:END:
+  [2022-11-17 Thu 17:54]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG A7][BMNG A7]]
+
+**** DONE BMNG LAB 7
+CLOSED: [2022-11-24 Thu 11:58] SCHEDULED: <2022-11-21 Mon>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-11-24 Thu 11:58]
+:END:
+  [2022-11-17 Thu 17:57]
+  [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Project Plan][BMNG Project Plan]]
+
 ** IUD Project/Contract                                       :masc:IUDproj:
 
 *** IUD - Modelling                                             :modelling:
@@ -309,7 +327,7 @@ CLOSED: [2022-11-17 Thu 15:58]
 - State "DONE"       from "NEXT"       [2022-11-17 Thu 15:58]
 :END:
 -slack?
-  [2022-09-16 Fri 12:16]
+ss  `[2022-09-16 Fri 12:16]
   [[file:c:/Users/Daniel/emacs/org/Tasks.org::*BMNG Assignment 1][BMNG Assignment 1]]
 
 **** DONE print coiling tool
@@ -505,8 +523,7 @@ https://emacs.stackexchange.com/questions/63498/citations-with-page-numbers-from
 
 *** FinModels - Processing
 
-**** READY Process oustanding finance 
-DEADLINE: <2022-08-07 Sun +1w> SCHEDULED: <2022-08-06 Sat  +1w>
+**** BACKLOG Process oustanding finance 
 :PROPERTIES:
 :LAST_REPEAT: [2022-08-03 Wed 11:35]
 :END:
@@ -523,7 +540,7 @@ DEADLINE: <2022-08-07 Sun +1w> SCHEDULED: <2022-08-06 Sat  +1w>
   [2022-07-08 Fri 15:05]
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*Processing][Processing]]
   
-*** FinModels - archi
+*** FinModels - archive
 **** DONE explore basic cascade processing applications in assembler paradigm
 CLOSED: [2022-09-13 Tue 13:19] SCHEDULED: <2022-09-11 Sun>
 :LOGBOOK:
@@ -534,7 +551,7 @@ CLOSED: [2022-09-13 Tue 13:19] SCHEDULED: <2022-09-11 Sun>
 
 ** Temp Sensor                                                     :tsensor:
 *** Temp Sensor - Items
-**** READY buy raspi zero ro clone for temp sensor
+**** BACKLOG buy raspi zero ro clone for temp sensor
 DEADLINE: <2022-08-31 Wed>
   [2022-07-13 Wed 14:01]
   [[file:c:/Users/Daniel/Documents/08_Emacs/org/Tasks.org::*will temp sensor googl estill authenticate][will temp sensor googl estill authenticate]]
@@ -552,9 +569,10 @@ DEADLINE: <2022-08-31 Wed>
 ** Misc
 * Admin                                                               :admin:
 
-** NEXT Call Air North per baggage issue 
-SCHEDULED: <2022-10-05 Wed> DEADLINE: <2022-10-07 Fri>
+** DONE Call Air North per baggage issue 
+CLOSED: [2022-11-24 Thu 14:16] SCHEDULED: <2022-10-05 Wed> DEADLINE: <2022-10-07 Fri>
 :LOGBOOK:
+- State "DONE"       from "NEXT"       [2022-11-24 Thu 14:16]
 - State "DONE"       from "TODO"       [2022-07-08 Fri 15:48]
 :END:
   [2022-07-08 Fri 12:31]
